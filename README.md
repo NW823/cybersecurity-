@@ -32,6 +32,8 @@ obs: as vezes o ransonware é feito com chantagem e persuasão para chegar a um 
 ![image](https://github.com/user-attachments/assets/d22feb1b-9689-450d-8b3d-81fb913a04bf)
 
 -**Scareware**: Engana o usuário com alertas falsos para instalar softwares maliciosos, ex: "Você está com vírus, para remover baixe tal arquivo..."
+![image](https://github.com/user-attachments/assets/ca92c36d-152e-4cd6-91c5-175be5ee7d13)
+
 
 -**PUP (Potentially Unwanted Program)**:Softwares que embora não seja malicioso, realizam ações indesejadas como exibir anúncios ou alterar configurações do sistema. 
 
@@ -39,6 +41,20 @@ obs: as vezes o ransonware é feito com chantagem e persuasão para chegar a um 
 
 -**Backdoor**: Deixa portas vulneraveis no computador da vítima, a fim de facilitar a invasão do hacker, permitindo acesso remoto não autorizado a um sistema. 
 
--**Trojan (Cavalo de Troia)**: Disfarçado de software legítimo, abre portas para outros malwares.
+-**Trojan (Cavalo de Troia)**: Disfarçado de software legítimo, abre portas para outros malwares. Pode instalar programas malicioso, ou abrir uma backdoor para invasão de um hacker 
+-Trojan Downloader: instala um código malicioso vindo da internet 
+-Trojan Dropper: instala outros códigos maliciosos embutidos no próprio código trojan 
+-Trojan Backdoor: Abre portas facilitando a invasão de outros hackeres ou o próprio hacker, basicamente abre as portas facilitando a sua entrada. 
+-Trojan DoS: Instala ferramenta de negação de serviços 
+-Trojan Destrutivo: Altera/Apaga arquivos e diretórios, formata o disco rígido, deixando o PC fora de operação 
+-Trojan Clicker: Redireciona a navegação de usuário a sites específicos para propaganda ou quantidade de acesos. 
+-Trojan Proxy: Instala um servidor de proxy, possibilitando que o computador, seja utilizado para navegação anônima e para envio de SPAM 
+
+### 🎭 Engenharia Social
+-**Phishing**: Site, mensagem, email falso que simula um verdadeiro - usam a engenharia social para enganar e roubar dados pessoais. 
+-**Pharming**: Um tipo de Phishing que acaba redirecionando a navegação do usuário para sites falsos usando serviço de DNS. 
+![image](https://github.com/user-attachments/assets/1f0c245e-5a0c-469d-9d3f-64e53232f3b5)
+
+
 
 
