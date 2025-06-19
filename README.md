@@ -54,7 +54,6 @@ obs: as vezes o ransonware é feito com chantagem e persuasão para chegar a um 
 -**Phishing**: Site, mensagem, email falso que simula um verdadeiro - usam a engenharia social para enganar e roubar dados pessoais. 
 
 -**Pharming**: Um tipo de Phishing que acaba redirecionando a navegação do usuário para sites falsos usando serviço de DNS. 
-![image](https://github.com/user-attachments/assets/1f0c245e-5a0c-469d-9d3f-64e53232f3b5)
 
 -**Whaling**: Ataque que o criminoso se disfarça de um participante de alto escalão para atingir outras pessoas. 
 
