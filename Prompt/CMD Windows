@@ -1,1 +1,11 @@
-
+🎯 CURSO DE CMD - WINDOWS 
+CD.. (volta um dirétorio) 
+dir (toda pasta dentro do disco) -> Uma espécie de listagem 
+CD Users (nome da pasta) -> entra na pasta 
+CD Desktop (entra no desktop)
+md sistema (cria uma pasta)
+rd sistema (apaga uma pasta) 
+echo > sistema.txt (Cria um arquivo em vários formatos) 
+del sistema (exclui um arquivo) 
+cls (apaga a tela do prompt) 
+rd/s sistema (exclui a pasta e os arquivos de dentro) 
