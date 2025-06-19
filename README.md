@@ -61,14 +61,11 @@ obs: as vezes o ransonware é feito com chantagem e persuasão para chegar a um 
 -**Advance Fee Fraud**: A Fraude de Taxa Antecipada é um tipo de fraude em que os indivíduos são solicitados a pagar uma taxa antecipadamente em troca de um pagamento maior prometido, que nunca se materializa. Fraude que o golpista induz a pessoa a oferecer informações confidenciais ou pagamento com a promessa de receber beneficio no futuro. 
 
 -**Clickjacking**: Técnica que engana o usuário para clicar em algo que aparenta ser inofensivo. Ele cria uma camada invisivel entre a interface do usuario e o sistema web; ele cria uma camada, uma cópia imperceptivel conseguindo todos os dados. O sistema não vão para o sistema de verificação do banco; eles vão para conta do hacker. 
-![image](https://github.com/user-attachments/assets/28df56bf-f20a-41e5-befe-d8ff728796fc)
 
 -**Typosquatting**: Registro de domínios com erros de digitação comuns para capturar acessos e aplicar golpes.
-![image](https://github.com/user-attachments/assets/dd084c65-b04b-48c0-bc3d-5f6c345a12c4)
 
 ### 🌐 Ataques em Rede
 -**Man-in-the-Middle**: Dados trocados entre duas partes são interceptadas e possívelmente alterados ou registrados pelo atacante sem que as vitimas se apercebam. Como um telefone sem fio. 
-![image](https://github.com/user-attachments/assets/fd0337d0-d404-4dee-9ed0-5f5a86178e48)
 
 -**Sniffing**: Captura de pacotes de dados em redes. Técnica utilizada para monitorar e analisar o tráfego de dados que circula em uma rede de computadores.
 
