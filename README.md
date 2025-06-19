@@ -52,9 +52,48 @@ obs: as vezes o ransonware é feito com chantagem e persuasão para chegar a um 
 
 ### 🎭 Engenharia Social
 -**Phishing**: Site, mensagem, email falso que simula um verdadeiro - usam a engenharia social para enganar e roubar dados pessoais. 
+
 -**Pharming**: Um tipo de Phishing que acaba redirecionando a navegação do usuário para sites falsos usando serviço de DNS. 
 ![image](https://github.com/user-attachments/assets/1f0c245e-5a0c-469d-9d3f-64e53232f3b5)
 
+-**Whaling**: Ataque que o criminoso se disfarça de um participante de alto escalão para atingir outras pessoas. 
 
+-**Advance Fee Fraud**: A Fraude de Taxa Antecipada é um tipo de fraude em que os indivíduos são solicitados a pagar uma taxa antecipadamente em troca de um pagamento maior prometido, que nunca se materializa. Fraude que o golpista induz a pessoa a oferecer informações confidenciais ou pagamento com a promessa de receber beneficio no futuro. 
+
+-**Clickjacking**: Técnica que engana o usuário para clicar em algo que aparenta ser inofensivo. Ele cria uma camada invisivel entre a interface do usuario e o sistema web; ele cria uma camada, uma cópia imperceptivel conseguindo todos os dados. O sistema não vão para o sistema de verificação do banco; eles vão para conta do hacker. 
+![image](https://github.com/user-attachments/assets/28df56bf-f20a-41e5-befe-d8ff728796fc)
+
+-**Typosquatting**: Registro de domínios com erros de digitação comuns para capturar acessos e aplicar golpes.
+![image](https://github.com/user-attachments/assets/dd084c65-b04b-48c0-bc3d-5f6c345a12c4)
+
+### 🌐 Ataques em Rede
+-**Man-in-the-Middle**: Dados trocados entre duas partes são interceptadas e possívelmente alterados ou registrados pelo atacante sem que as vitimas se apercebam. Como um telefone sem fio. 
+![image](https://github.com/user-attachments/assets/fd0337d0-d404-4dee-9ed0-5f5a86178e48)
+
+-**Sniffing**: Captura de pacotes de dados em redes. Técnica utilizada para monitorar e analisar o tráfego de dados que circula em uma rede de computadores.
+
+-**Spoofing (IP, ARP, DNS)**: Conhecida como técnica do mascaramento, falsificação de identidades digitais na rede. Envolve golpistas que fingem ser outra pessoa para roubar dados ou dinheiro ou espalhar malware.
+
+-**KRACK**: Exploração da falha no protocolo WPA2 em redes Wi-Fi.Eles conseguem ler os dados criptografados. 
+
+-**Ataque de Zero Clique**: Executado sem interação do usuário, geralmente via rede (MMS, Wi-Fi, etc.).
+
+### 🧠 Exploração de Vulnerabilidades
+
+-**SQL Injection**: Injeção de comandos em campos de banco de dados.
+
+-**Cross-site Scripting (XSS)**: Execução de scripts maliciosos em sites vulneráveis.
+
+-**Buffer Overflow**: Estouro de memória para execução arbitrária de código.
+
+-**Zero-Day**: Exploração de falhas ainda desconhecidas pelos desenvolvedores exploits.
+
+-**Jailbreak**: Remoção de restrições de sistemas operacionais, tornando-os vulneráveis.
+
+-**Força Bruta**: Tentativas repetidas de senhas até encontrar a correta.
+
+### 🎯 Ameaças Persistentes Avançadas (APT)
+
+-**APT (Advanced Persistent Threat)**: Infiltração prolongada e sigilosa em redes corporativas ou governamentais, visando espionagem, roubo de dados ou sabotagem. Básicamente são ataques complexos perigosos, ele ferra o seu servidor e é o pesadelo de qualquer empresa. São ataques complexos e perigosos, não é fácil de fazer. 
 
 
